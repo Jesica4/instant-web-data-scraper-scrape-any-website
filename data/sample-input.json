@@ -1,0 +1,6 @@
+{
+  "url": "https://example.com",
+  "pagination": false,
+  "max_pages": 1,
+  "export_format": "json"
+}
